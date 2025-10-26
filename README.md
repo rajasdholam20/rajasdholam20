@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajas Dholam</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
+  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-URL](https://www.linkedin.com/feed/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
