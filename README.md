@@ -12,8 +12,7 @@
 - 🔭 I’m currently building a product related to **Financial Literacy with Gamification **  
 - 🌱 I’m currently learning Advanced System Development, System Design.
 - 💬 Ask me about **Software Engineer, Automation, Data Science, ML, Web Development, and AI Integration**  
-- 🌐 Check out my portfolio: [https://your-portfolio-link.com]()  
-- 📄 Know about my experiences: [Resume]()  
+
 
 ---
 
